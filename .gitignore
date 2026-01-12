@@ -1,0 +1,12 @@
+# Директории
+/shelf/
+**/__pycache__/
+venv/
+.idea/
+.vscode/
+logs/
+
+# Файлы
+/workspace.xml
+*.log
+
